@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Draggable のテスト</h1>
+    <h1>Vue.Draggable のテスト</h1>
     <v-list>
       <draggable v-model="itemList" draggable=".item">
         <v-list-item
